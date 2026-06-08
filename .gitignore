@@ -70,3 +70,6 @@ Testing/
 
 # image outputs
 *.ppm
+
+# MacOS trash
+.DS_Store
